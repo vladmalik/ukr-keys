@@ -10,9 +10,16 @@ Install Ukrainian Language pack from Windows Language settings and select "Ukrai
 There are several ways to enter certain letters.
 
 yu = ju = ю
+
 sh = ш
-w + <any char> = ш
+
 w + , = щ
+
+w + <any other char> = ш
+
 q = я
+
 ` = ь
+
 ye = je = э
+
